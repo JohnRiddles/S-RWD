@@ -1,0 +1,15 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# synthassess
+
+The ‘synthassess’ package is a Westat-developed R package for assessing
+synthetic data. The package currently includes utility assessment
+functions, with risk assessment functionality to be added in the near
+future.
+
+## Installation
+
+The package can be installed from source in external environments such
+as the ORNL Frontier computer environment. The package can be copied as
+a tarball (“.tar.gz”) file and installed using `install.packages()`.

@@ -1,0 +1,21 @@
+url: ~
+template:
+  bootstrap: 5
+destination: public/
+reference:
+  - title: Utility Functions - Differences in Distributions
+  - contents:
+    - matches("compute_ks_distance")
+    - matches("compare_pairwise_correlations")
+    - matches("compare_crosstabs")
+    - matches("dist_btwn_cat_vars")
+    - matches("dist_btwn_cont_vars")
+  - title: Utility Functions - Confidence Interval Overlap
+  - contents:
+    - matches("ci_overlap")
+  - title: Utility Functions - U statistic
+  - contents:
+    - matches("compute_u_statistic")
+  - title: Example Datasets
+  - contents:
+    - matches("libraries")

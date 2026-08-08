@@ -1,0 +1,27 @@
+Package: synthassess
+Title: Utility and Risk Assessments for Synthetic Data
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Robyn", "Ferg", , "RobynFerg@westat.com", role = c("aut")),
+    person("Benjamin", "Schneider", , "BenjaminSchneider@westat.com", role = c("aut", "cre"))
+  )
+Description: Conducts utility and risk assessments for synthetic data.
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Depends: 
+    R (>= 4.1.0)
+LazyData: true
+Imports: 
+    dplyr,
+    rlang,
+    stats,
+    stringr,
+    utils
+Suggests: 
+    duckplyr,
+    sparklyr,
+    srvyr,
+    survey,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
