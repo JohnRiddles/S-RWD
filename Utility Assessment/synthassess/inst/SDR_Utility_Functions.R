@@ -1,14 +1,9 @@
 # Utility_functions.R
-#
-# Robyn Ferg
-# 08/22/223
+
 #
 # This script includes code for utility functions to determine how similar
 # two data sets (original and synthetic/perturbed) are to each other.
-# Originally created for 2015-2019 longitudinal SDR, but code written to be 
-# generalizable to any dataset.
-# Descriptions of each utility measure can be found here:
-# "\\westat.com\dfs\SDR_NCSES\7. Data Delivery and Dissemination\StatConfid\Utility\Utility Measures.docx"
+
 
 
 # The original and treated data should be contained within
