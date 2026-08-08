@@ -133,8 +133,6 @@ count_flag <- function(data, flag_name) {
 ###################################### Specify the Directories ######################################
 
 out_dir <- file.path(getwd(), "Output")
-# "/autofs/nccs-svm1_home2/angelachen/Output"
-# /ccs/home/angelachen
 
 ###################################### Data Processing ######################################
 
